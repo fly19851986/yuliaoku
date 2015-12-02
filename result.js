@@ -25,7 +25,7 @@ var Schema = mongoose.Schema;
 * board=木板=ab
 */
 
-
+	
 /*
 * 启动命令为 result c3t1 ，则核对指定的章节
 * 
